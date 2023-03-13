@@ -20,3 +20,6 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install all pyt
 
 
 ![old](https://user-images.githubusercontent.com/95493251/224643157-6d28d362-fd34-4936-a8b1-2d745138d880.JPG)
+
+![iyi](https://user-images.githubusercontent.com/95493251/224666699-5254eda4-4376-450a-b52a-085a6faa22b3.JPG)
+
